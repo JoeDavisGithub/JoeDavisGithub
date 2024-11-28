@@ -65,5 +65,5 @@ Python - SQL Data Manipulation: Pandas, NumPy Data Visualization: Matplotlib, Se
 </a></p>
 <a href="https://github.com/JoeDavisGithub"><img src="https://github-readme-stats.vercel.app/api?username=JoeDavisGithub&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ali06112023's GitHub stats" /></a>
 
-<a href =<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoeDavisGithub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<a href="https://github.com/JoeDavisGithub"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoeDavisGithub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></a>
 
