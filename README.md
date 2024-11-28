@@ -19,13 +19,16 @@ Recently I completed a Data Technician Skills course with JustIT, that I applied
 *   ⚡ I like to keep my mind and body challenged simultaneously. Celebrating nearly 2 years of sticking to gym routine.
 
 ## Projects
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)   
+1.**Exploratory Data Analysis - Employee Resignation:** With a greater focus on exploring a data set, and performing various data cleansing to analyse and identify the main causes of dissatisfaction reported by employees who resigned. This study also looked into potential trends that may be worth identifying for the institute that could relate to dissatisfaction. 
 
-1. **Exploratory Data Analysis - Employee Resignation:** With a greater focus on exploring a data set, and performing various data cleansing to analyse and identify the main causes of dissatisfaction reported by employees who resigned. This study also looked into potential trends that may be worth identifying for the institute that could relate to dissatisfaction.
-   
-2. **Predictive AI Modelling - Determining Property Value:** Using both classification and regression models on a dataset when appropriate, the goal was to produce models with less than a 15% margin of error and identify which model worked best and try to determine why. Each model had some specific form of data cleansing applied to enhance it's accuracy.
-   
-3. **Full-Stack Java Project - Ticket System:** An application with integrated GUI, built to allow users of the system to access different tasks based on job heirarchy, as well as introduce new records or update old records where appropriate in a locally hosted database.
-   
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)   
+2.**Predictive AI Modelling - Determining Property Value:** Using both classification and regression models on a dataset when appropriate, the goal was to produce models with less than a 15% margin of error and identify which model worked best and try to determine why. Each model had some specific form of data cleansing applied to enhance it's accuracy.
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)   
+3. **Full-Stack Java Project - Ticket System:** An application with integrated GUI, built to allow users of the system to access different tasks based on job heirarchy, as well as introduce new records or update old records where appropriate in a locally hosted database. GUI built using integrated development tool by IntelliJ
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)   
 4. **Cloud Based Web-app:** hosting an apache server on a docker, hosted using AWS services alongside a database. Enabled users to log-in and update their status for meetings using passwords or time-limits, as well as create new meetings or review attendance of previous meetings.
 
   
