@@ -15,8 +15,11 @@ Recently I completed a Data Technician Skills course with JustIT, that I applied
 ## Projects
 
 1. **Exploratory Data Analysis - Employee Resignation:** With a greater focus on exploring a data set, and performing various data cleansing to analyse and identify the main causes of dissatisfaction reported by employees who resigned. This study also looked into potential trends that may be worth identifying for the institute that could relate to dissatisfaction.
+   
 2. **Predictive AI Modelling - Determining Property Value:** Using both classification and regression models on a dataset when appropriate, the goal was to produce models with less than a 15% margin of error and identify which model worked best and try to determine why. Each model had some specific form of data cleansing applied to enhance it's accuracy.
+   
 3. **Full-Stack Java Project - Ticket System:** An application with integrated GUI, built to allow users of the system to access different tasks based on job heirarchy, as well as introduce new records or update old records where appropriate in a locally hosted database.
+   
 4. **Cloud Based Web-app:** hosting an apache server on a docker, hosted using AWS services alongside a database. Enabled users to log-in and update their status for meetings using passwords or time-limits, as well as create new meetings or review attendance of previous meetings.
 
   
