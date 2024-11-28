@@ -1,16 +1,22 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joe Peter Davis
 =======================================================================================================================================
 
+I am an aspiring Data Analyst with a history of programming looking for experience in an entry level Data Analyst role and a chance to contribute to a professional environment.
+
 Junior Data Analyst | Passionate Programmer | Keen Student
 ----------------------------------------------------------
 
+### About Me 🎓
+
 Recently I completed a Data Technician Skills course with JustIT, that I applied to because of my passion for data, which I found during my degree while working with AI Data Models as it combined my love of computer logic and affinity for statistical problem solving. I hold a First-Class Bachelors Degree with Honours in Computer Science that i graduated with from City, University of London. I have developed a wide skillset including many programming languages, with a particular affinity for Python and Java, but also in softwares such as: PowerBI, Tableau, Excel and Access. However, my academic journey is never over and I am continuously looking for new skillsets to develop, and new techniques to add to my existing abilities.
 
-*   🌍  I'm based in East London: Dagenham
-*   🖥️  See my portfolio at [my own brief portfolio site](http://github.com/JoeDavisGithub/JoeDavisGithub.github.io)
-*   ✉️  You can contact me at [peterdavis.joe@gmail.com](mailto:peterdavis.joe@gmail.com)
-*   🧠  I'm learning React
-*   ⚡  I like to keep my mind and body challenged simultaneously. Celebrating nearly 2 years of sticking to gym routine.
+*   🌍 I'm based in East London: Dagenham
+*   🖥️ See my portfolio at [my own brief portfolio site](http://github.com/JoeDavisGithub/JoeDavisGithub.github.io)
+*   ✉️ You can contact me at [peterdavis.joe@gmail.com](mailto:peterdavis.joe@gmail.com)
+*   📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn).
+*   🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling.
+*   🌐 Curious about web scraping and API integration.
+*   ⚡ I like to keep my mind and body challenged simultaneously. Celebrating nearly 2 years of sticking to gym routine.
 
 ## Projects
 
