@@ -63,7 +63,6 @@ Python - SQL Data Manipulation: Pandas, NumPy Data Visualization: Matplotlib, Se
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </picture>
 </a></p>
-<a href="https://github.com/JoeDavisGithub"><img src="https://github-readme-stats.vercel.app/api?username=JoeDavisGithub&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ali06112023's GitHub stats" /></a>
+<a href="https://github.com/JoeDavisGithub"><img src="https://github-readme-stats.vercel.app/api?username=JoeDavisGithub&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=chartreuse-dark" alt="JoeDavisGithub's GitHub stats" /></a>
 
-<a href="https://github.com/JoeDavisGithub"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoeDavisGithub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></a>
-
+<a href="https://github.com/JoeDavisGithub"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeDavisGithub&hide=Jupyter%20Notebook&theme=chartreuse-dark" alt="ovi" /></a>
