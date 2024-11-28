@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Data Analyst | Passionate Programmer | Keen Student
 ----------------------------------------------------------
 
-Recently I completed a Data Technician Skills course with JustIT, that I applied to because of my passion for data, which I found during my degree while working with AI Data Models as it combined my love of computer logic and affinity for statistical problem solving. I hold a First-Class Bachelors Degree with Honours in Computer Science that i graduated with from City, University of London. I have developed a wide skillset including many programming languages, with a particular affinity for Python and Java, but also in softwares such as: PowerBI, Tableau, Excel and Access.
+Recently I completed a Data Technician Skills course with JustIT, that I applied to because of my passion for data, which I found during my degree while working with AI Data Models as it combined my love of computer logic and affinity for statistical problem solving. I hold a First-Class Bachelors Degree with Honours in Computer Science that i graduated with from City, University of London. I have developed a wide skillset including many programming languages, with a particular affinity for Python and Java, but also in softwares such as: PowerBI, Tableau, Excel and Access. However, my academic journey is never over and I am continuously looking for new skillsets to develop, and new techniques to add to my existing abilities.
 
 *   🌍  I'm based in East London: Dagenham
 *   🖥️  See my portfolio at [my own brief portfolio site](http://github.com/JoeDavisGithub/JoeDavisGithub.github.io)
@@ -14,10 +14,10 @@ Recently I completed a Data Technician Skills course with JustIT, that I applied
 
 ## Projects
 
-1. **Exploratory Data Analysis - Employee Resignation:**
-2. **Predictive AI Modelling - Determining Property Value:**
-3. **Full-Stack Java Project - Ticket System:**
-4. **Cloud Based Web-app:**
+1. **Exploratory Data Analysis - Employee Resignation:** With a greater focus on exploring a data set, and performing various data cleansing to analyse and identify the main causes of dissatisfaction reported by employees who resigned. This study also looked into potential trends that may be worth identifying for the institute that could relate to dissatisfaction.
+2. **Predictive AI Modelling - Determining Property Value:** Using both classification and regression models on a dataset when appropriate, the goal was to produce models with less than a 15% margin of error and identify which model worked best and try to determine why. Each model had some specific form of data cleansing applied to enhance it's accuracy.
+3. **Full-Stack Java Project - Ticket System:** An application with integrated GUI, built to allow users of the system to access different tasks based on job heirarchy, as well as introduce new records or update old records where appropriate in a locally hosted database.
+4. **Cloud Based Web-app:** hosting an apache server on a docker, hosted using AWS services alongside a database. Enabled users to log-in and update their status for meetings using passwords or time-limits, as well as create new meetings or review attendance of previous meetings.
 
   
 ### Skills 
