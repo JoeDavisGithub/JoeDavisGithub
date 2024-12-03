@@ -10,8 +10,9 @@ Junior Data Analyst | Passionate Programmer | Keen Student
 
 Recently I completed a Data Technician Skills course with JustIT, that I applied to because of my passion for data, which I found during my degree while working with AI Data Models as it combined my love of computer logic and affinity for statistical problem solving. I hold a First-Class Bachelors Degree with Honours in Computer Science that i graduated with from City, University of London. I have developed a wide skillset including many programming languages, with a particular affinity for Python and Java, but also in softwares such as: PowerBI, Tableau, Excel and Access. However, my academic journey is never over and I am continuously looking for new skillsets to develop, and new techniques to add to my existing abilities.
 
+🖥️ See my portfolio [in this link](https://sites.google.com/view/joepeterdavis/home)👈
+
 *   🌍 I'm based in East London: Dagenham
-*   🖥️ See my portfolio at: UNDER CONSTRUCTION // Google Sites Portfolio will soon be available please check again soon!
 *   ✉️ You can contact me at [peterdavis.joe@gmail.com](mailto:peterdavis.joe@gmail.com)
 *   📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn).
 *   🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling.
